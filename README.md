@@ -1,3 +1,4 @@
 # hello-world
-my first test with GitHub
-just starting to learn the ropes with GitHub
+My first test with GitHub.
+
+Just starting to learn the ropes with GitHub.
